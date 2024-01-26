@@ -1,0 +1,26 @@
+header{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    height: 50px;
+    background: #1f42e1;
+    background: -webkit-gradient(to right, #1f42e1, #0c95aa);
+    background: linear-gradient(to right, #1f42e1, #0c95aa);
+}
+
+#consultarApi{
+    margin-top: 200px;
+    margin-left: 600px;
+}
+
+table th{
+    background-color: #0da5e6 !important;
+    color: white;
+}
+table>tbody>tr>td{
+    vertical-align: middle !important;
+}
+
+.btn-group, .btn-group-vertical{
+    position: absolute !important;
+}
